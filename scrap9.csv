@@ -1,0 +1,87 @@
+Type,Text,URL
+a,,/
+img,,/Content/themes/Specialchem/img/logo_SpecialChem_mobile.webp
+a,,#
+a,OK,#
+a,,
+a,My Profile,/my-profile
+a,My Subscriptions,/my-profile/subscriptions
+a,My Courses & Tutorials,/my-profile/online-courses
+a,Logout,#
+a,Subscribe to Newsletters,/newsletterssubscription
+a,Login / Register,#
+a,,/
+img,,/Content/themes/Specialchem/img/SpecialChem_logo.svg
+a,Ingredients Selector,/selectors
+a,Selection Resources,/knowledge
+a,News & Feeds,/news-and-feeds
+a,SEARCH,#
+a,OK,#
+a,Home,/
+a,Products Search,/selectors
+a,,/services/Redirect.aspx?idb={3C4C68CD-19AA-479A-854C-6C9050D6A26F}&phid=PlaceholderLb&bizid=5494&prg={D663A0A0-A00B-47C9-A96D-AB973147E375}
+img,,/Content/themes/RespSpecialchem/img/default.png
+img,,/Content/themes/RespSpecialchem/img/default.png
+img,,/Content/themes/RespSpecialchem/img/default.png
+a,,/
+a,Share,#mat_get_link
+a,Download,/ajax/login?ajax=4&targetitem={6062D6CA-3125-4691-852C-13C04E8421F3}&withcs=2&download=1
+a,,#
+a,Copy,#
+a,View all pages saved,#
+a,CONTINUE BROWSING,#
+h1,N-Vinyl-pyrrolidone (NVP),
+a,Supplied by BASF,/selectors/s-basf
+a,Read More,#
+a,View less,#
+a,download,"javascript:__doPostBack('ctl09$content_1$bodycontent_0$leftcontent_0$downloadonlineBtn','')"
+a,Access full datasheet, /ajax/login?ajax=4&targetitem={6062D6CA-3125-4691-852C-13C04E8421F3}&gaSource=Selector
+h2,Compatiblity with other products,
+p,Find products that are predicted to be compatible with N-Vinyl-pyrrolidone (NVP).This list of compatible products is generated out of estimated HSP values. A practical determination of these HSP values would provide higher certainty.Learn more about Hansen Solubility Parameters (HSP) and their use in predictive formulation.,
+a,Learn more about Hansen Solubility Parameters (HSP) and their use in predictive formulation,/tech-library/article/hsp-science-based-formulation-for-adhesives
+a,Compatible Products,/selectors?tgtitem={6062D6CA-3125-4691-852C-13C04E8421F3}&cmpwith=88-12-0
+a,View the listing options,https://business.specialchem.com/digital-marketing-solutions/product-listing?utm_source=SC_adhesives&utm_medium=referral
+a,Send a Feedback,/Ajax/login?ajax=4&targetitem={6062D6CA-3125-4691-852C-13C04E8421F3}&formId={363FD4AA-9D54-48AE-8085-F2B243EE5AE4}®istrationFrom=
+a,,/services/Redirect.aspx?idb={68F34332-5D4E-4F2A-950F-789A6E4AB2F9}&phid=Placeholder5&bizid=5486&prg={AEC6D0AF-0F29-49F4-9948-CB5C48AFBF9A}
+img,,/Content/themes/RespSpecialchem/img/default.png
+a,,
+a,?,
+a,Learn more about HSP,/tech-library/article/hsp-science-based-formulation-for-adhesives
+a,Luvitec® K 85 CQ solution 20%0.0,/product/p-basf-luvitec-k-85-cq-solution-20?d=0.0&prev=6062D6CA-3125-4691-852C-13C04E8421F3
+a,Luvitec® K300.0,/product/p-basf-luvitec-k30?d=0.0&prev=6062D6CA-3125-4691-852C-13C04E8421F3
+a,Luvitec® VA 640.0,/product/p-basf-luvitec-va-64?d=0.0&prev=6062D6CA-3125-4691-852C-13C04E8421F3
+a,PVP K-300.0,/product/p-ashland-pvp-k-30?d=0.0&prev=6062D6CA-3125-4691-852C-13C04E8421F3
+a,ERISYS® GA-2400.6,/product/p-huntsman-erisys-ga-240?d=0.6&prev=6062D6CA-3125-4691-852C-13C04E8421F3
+a,View All,/selectors?tgtitem={6062D6CA-3125-4691-852C-13C04E8421F3}&cmpwith=88-12-0
+a,,/services/Redirect.aspx?idb={D2EDACF7-A629-4449-B922-9C78E549FA00}&phid=Placeholder6&bizid=5488&prg={716A7981-5CAE-44B0-A635-6869FF583EFF}
+img,,/Content/themes/RespSpecialchem/img/default.png
+p,"Database of 29352 Adhesives Ingredients,reviewed and updated daily",
+p,"Open your choices, compare products,ask for samples, contact suppliers",
+p,Be inspired and never miss again crucialinnovations with our weekly email updates,
+a,CREATE YOUR FREE ACCOUNT,#
+a,Marketing solutions,https://business.specialchem.com?utm_source=SC_coatings&utm_medium=referral
+a,Online courses,/online-courses
+a,Program analytics,https://program-analytics.specialchem.com
+a,Become an expert,https://www.specialchem.com/become-an-expert
+a,About us,https://www.specialchem.com
+a,Careers,https://www.specialchem.com/careers
+a,Contact us,/contact-us
+a,Subscribe,#
+a,Follow uson LinkedIn,http://www.linkedin.com/company/specialchem?trk=company_name
+a,Follow uson Twitter,https://twitter.com/specialchem
+a,Subscribe to ourYoutube channel,https://www.youtube.com/user/SpecialChem
+a,PlasticsElastomers,https://omnexus.specialchem.com
+img,,/Content/themes/RespSpecialchem/img/default.png
+a,CoatingsIngredients,https://coatings.specialchem.com
+img,,/Content/themes/RespSpecialchem/img/default.png
+a,AdhesivesIngredients,https://adhesives.specialchem.com
+img,,/Content/themes/RespSpecialchem/img/default.png
+a,CosmeticsIngredients,https://cosmetics.specialchem.com
+img,,/Content/themes/RespSpecialchem/img/default.png
+a,PolymerAdditives,https://polymer-additives.specialchem.com
+img,,/Content/themes/RespSpecialchem/img/default.png
+a,Terms and Conditions,/terms-conditions
+a,Privacy Policy,/privacy-policy
+a,Cookie Policy,/cookie-policy
+a,Back to Top,#
+img,,https://px.ads.linkedin.com/collect/?pid=980164&fmt=gif

@@ -1,0 +1,207 @@
+Type,Text,URL
+p,Warning:The NCBI web site requires JavaScript to function.more...,
+a,more...,/guide/browsers/#enablejs
+img,,https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/favicons/favicon-57.png
+p,An official website of the United States government,
+img,,https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-dot-gov.svg
+p,"The .gov means it's official.Federal government websites often end in .gov or .mil. Before
+							sharing sensitive information, make sure you're on a federal
+							government site.",
+img,,https://www.ncbi.nlm.nih.gov/coreutils/uswds/img/icon-https.svg
+p,"The site is secure.Thehttps://ensures that you are connecting to the
+							official website and that any information you provide is encrypted
+							and transmitted securely.",
+a,,/
+img,,https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/logos/AgencyLogo.svg
+a,Log in,https://account.ncbi.nlm.nih.gov
+h4,Account,
+a,Dashboard,/myncbi/
+a,Publications,/myncbi/collections/bibliography/
+a,Account settings,/account/settings/
+a,Log out,/account/signout/
+a,Access keys,https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys
+a,NCBI Homepage,https://www.ncbi.nlm.nih.gov
+a,MyNCBI Homepage,/myncbi/
+a,Main Content,#maincontent
+a,Main Navigation,#
+h1,Bookshelf,
+a,Bookshelf,/books/
+h2,,
+a,Browse Titles,/books/browse/
+a,Advanced,/books/advanced/
+a,Help,/books/NBK3833/
+a,Disclaimer,https://www.ncbi.nlm.nih.gov/books/about/disclaimer/
+p,"NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.",
+p,"IARC Working Group on the Evaluation of Carcinogenic Risks to Humans. Re-evaluation of Some Organic Chemicals, Hydrazine and Hydrogen Peroxide. Lyon (FR): International Agency for Research on Cancer; 1999. (IARC Monographs on the Evaluation of Carcinogenic Risks to Humans, No. 71.)",
+a,,/books/n/iarcmono71/
+img,,/corehtml/pmc/pmcgifs/bookshelf/thumbs/th-iarcmono71-lrg.png
+h2,"Re-evaluation of Some Organic Chemicals, Hydrazine and Hydrogen Peroxide.",
+a,Show details,#__NBK498761_dtls__
+a,International Agency for Research on Cancer,http://monographs.iarc.fr/
+a,Contents,/books/n/iarcmono71/
+a,< Prev,/books/n/iarcmono71/a055/
+a,Next >,/books/n/iarcmono71/a057/
+h1,N-Vinyl-2-pyrrolidone and polyvinyl pyrrolidone,
+p,Data were last reviewed inIARC (1979)and the compounds were classified inIARC MonographsSupplement 7 (1987).,
+a,IARC (1979),#p1181_bib4
+h2,1. Exposure Data,
+h3,1.1. Chemical and physical data,
+h4,1.1.1. Nomenclature,
+h4,1.1.2. Structural and molecular formulae and relative molecular mass,
+img,,/books/NBK498761/bin/1181a.jpg
+h4,1.1.3. Chemical and physical properties of the pure substance,
+a,"Lewis, 1993",#p1181_bib9
+a,"Lide, 1997",#p1181_bib10
+a,"Lide, 1997",#p1181_bib10
+a,"Harreus, 1993",#p1181_bib3
+a,"Harreus, 1993",#p1181_bib3
+a,"Lewis, 1993",#p1181_bib9
+h3,1.2. Production and use,
+p,"Information available in 1995 indicated thatN-vinyl-2-pyrrolidone was produced in four countries (China, Germany, United Kingdom, United States) (Chemical Information Services, 1995).",
+a,"Chemical Information Services, 1995",#p1181_bib2
+p,"It is used in the manufacture of polyvinylpyrrolidone (PVP), in the manufacture of copolymers with, for example, acrylic acid, acrylates, vinyl acetate and acrylonitrile and in the synthesis of phenolic resins. About 10–15% of the monomer is used in the pharmaceutical industry for the production of PVP–iodine complex used as a disinfectant. It is also used as a reactive solvent of ultraviolet-curable resins for the production of printing inks and paints as paper and textile auxiliaries, and as an additive in the cosmetics industry (Harreus, 1993).",
+a,"Harreus, 1993",#p1181_bib3
+h3,1.3. Occurrence,
+h4,1.3.1. Occupational exposure,
+p,"According to the 1981–83 National Occupational Exposure Survey (NOES, 1997), approximately 6000 workers in the United States were potentially exposed toN-vinyl-2-pyrrolidone (see General Remarks).",
+a,"NOES, 1997",#p1181_bib12
+h4,1.3.2. Environmental occurrence,
+p,No data were available to the Working Group.,
+h3,1.4. Regulations and guidelines,
+p,"TheAmerican Conference of Governmental Industrial Hygienists (ACGIH) (1997)has not proposed any occupational exposure limit forN-vinyl-2-pyrrolidone in workplace air. Russia has a short-term exposure limit of 1 mg/m3for exposure in workplace air, with a skin notation (International Labour Office, 1991).",
+a,American Conference of Governmental Industrial Hygienists (ACGIH) (1997),#p1181_bib1
+a,"International Labour Office, 1991",#p1181_bib6
+p,"No international guideline forN-vinyl-2-pyrrolidone in drinking-water has been established (WHO, 1993).",
+a,"WHO, 1993",#p1181_bib13
+h2,2. Studies of Cancer in Humans,
+p,No data were available to the Working Group.,
+h2,3. Studies of Cancer in Experimental Animals,
+p,"Polyvinyl pyrrolidone was tested in mice, rats and rabbits by several routes of administration, using materials of various molecular weights. Repeated subcutaneous injections of an aqueous solution of polyvinyl pyrrolidone to rats caused local sarcomas. Single or several subcutaneous or intraperitoneal implantations of polyvinyl pyrrolidone powder resulted in a low incidence of local tumours. After several intravenous injections or after intraperitoneal implantation of polyvinyl pyrrolidone, tumours occurred in rats at distant sites, including the reticuloendothelial system; the results of these experiments do not permit an evaluation of a possible association of these distant tumours with the treatment (IARC, 1979).",
+a,"IARC, 1979",#p1181_bib4
+h3,3.1. Inhalation exposure,
+p,"Rat: Groups of 60 male and 60 female Sprague-Dawley rats, 37–39 days of age, were administeredN-vinyl-2-pyrrolidone (purity, 99.9%) by whole-body exposure at concentrations of 5, 10 or 20 ppm [22, 45 or 90 mg/m3] vapour for 6 h per day on five days per week for 24 months. A group of 70 males and 70 females exposed to air alone served as controls. Macroscopic examination was carried out on all animals, and histopathological examination was performed on almost all organs and all gross lesions. Exposed animals displayed a significant reduction in body weight gain. No difference in survival was noted in any group. As shown inTable 1, adenomas and adenocarcinomas of the nasal cavity and hepatocellular carcinomas occurred with significantly positive dose-related trends in treated groups of each sex. In addition, squamous carcinomas of the larynx were found in rats of the high-dose group. Increased incidences of inflammation, atrophy of the olfactory epithelium, hyperplasia and metaplasia in the nasal cavity, focal hyperplasia, foci of cellular alteration and spongiosis hepatis in the liver, and epithelial hyperplasia in the larynx were also seen in the exposed groups (Klimischet al., 1997a).",
+a,Table 1,/books/NBK498761/table/p1181_T1/?report=objectonly
+a,"Klimischet al., 1997a",#p1181_bib7
+a,,/books/NBK498761/table/p1181_T1/?report=objectonly
+img,,/books/NBK498761/table/p1181_T1/?report=thumb
+h4,Table 1,
+a,Table 1,/books/NBK498761/table/p1181_T1/?report=objectonly
+p,Incidence of neoplasms in N-vinyl-2-pyrrolidone-treated Sprague-Dawley rats.,
+p,"Groups of 30 male and 30 female Sprague-Dawley rats, 37–39 days of age, were administeredN-vinyl-2-pyrrolidone (purity, 99.9%) by whole-body inhalation at concentrations of 0, 5, 10 or 20 ppm [0, 22, 45 or 90 mg/m3] vapour for 6 h per day on five days per week for 12 months; 10 males and 10 females of each group were killed after three months of treatment. Macroscopic examination was carried out on all animals, and histopathological examination was performed on the liver, nasal cavity and pancreas. Adenomas of the nasal cavity were seen in one male in the low-dose group and one male and one female in the high-dose group at 12 months of treatment. Foci of cellular alteration (clear cell areas) of the liver were observed in low-dose females at 12 months, and in mid- and high-dose males and females at three and 12 months [incidence and statistical significance unspecified]. Also increased liver weight, spongiosis hepatis and nasal lesions (inflammation, atrophy of the olfactory epithelium, hyperplasia of basal cells of the respiratory and olfactory epithelium, and hyperplasia of the submucosal glands) were observed in the treated groups (Klimischet al., 1997b).",
+a,"Klimischet al., 1997b",#p1181_bib8
+h2,4. Other Data Relevant to an Evaluation of Carcinogenicity and its Mechanisms,
+h3,"4.1. Absorption, distribution, metabolism and excretion",
+h4,4.1.1. Humans,
+p,"Polyvinyl pyrrolidone of molecular weight of less than 25 000 can be excreted via the kidneys. Following intravenous administration to terminal cancer patients of polyvinyl pyrrolidone (average molecular weight 40 000), approximately one-third was eliminated in urine in 6 h and another one-third in the following 18 h. At autopsy, accumulation was observed in the kidneys, lung, liver, spleen and lymph nodes (IARC, 1979).",
+a,"IARC, 1979",#p1181_bib4
+h4,4.1.2. Experimental systems,
+p,"The disposition ofN-[14C]vinyl-2-pyrrolidone has been studied in male Sprague-Dawley rats following a single intravenous injection. The plasma half-life was 1.9 h. Up to 6 h after dosing, the highest tissue concentrations of radioactivity were found in the liver and small intestines. By that time, about 19% of the dose had been excreted in bile, yet, by 12 h, only about 0.4% had been excreted in faeces while about 75% had been excreted in urine. Thus, there appeared to be substantial enterohepatic recirculation of biliary metabolites. Very small quantities of the administered material were excreted unchanged. In a single rat, 12% of the urinary radioactivity was present as acetic acid. Other metabolites were not identified (McClanahanet al., 1984).",
+a,"McClanahanet al., 1984",#p1181_bib11
+p,"There was no significant metabolism of polyvinyl pyrrolidone injected intravenously into rats, rabbits or dogs. Retention is proportional to molecular weight (IARC, 1979).",
+a,"IARC, 1979",#p1181_bib4
+h3,4.2. Toxic effects,
+h4,4.2.1. Humans,
+p,"In liver biopsies from people who had received polyvinyl pyrrolidone intravenously, basophilic globular deposits were observed in Kupffer cells, occasionally accompanied by mild inflammation. Thesaurismosis (a foam-cell storage phenomenon characterized by swollen cells with reticulated nuclei loaded with vacuoles or deposits of polyvinyl pyrrolidone) has been observed after inhalation of hair sprays containing polyvinyl pyrrolidone and may be accompanied by pulmonary fibrosis and pneumonia (IARC, 1979).",
+a,"IARC, 1979",#p1181_bib4
+h4,4.2.2. Experimental systems,
+p,"A thesaurismotic reaction has been found in many organs, but particularly the spleen, in mice, rats, rabbits and dogs treated with polyvinyl pyrrolidone (IARC, 1979).",
+a,"IARC, 1979",#p1181_bib4
+p,"The toxicology ofN-vinyl-2-pyrrolidone in rodents described in unpublished reports has been summarized (Klimischet al., 1997a,b). Most of these studies involved inhalation exposure to concentrations of up to 120 ppm [545 mg/m3] (a lethal concentration) for periods ranging from one week to one year. Oral administration studies (gavage and drinking-water) have also been conducted in rats at dose levels of up to 100 mg/kg bw per day.N-Vinyl-2-pyrrolidone is an irritant to skin and mucous membranes, causes hepatotoxicity in rats and mice, but not Syrian hamsters, and causes nasal damage upon inhalation. Nasal cavity inflammation, atrophy of olfactory epithelium and hyperplasia of the basal cells of the respiratory and olfactory epithelium were seen in Sprague-Dawley rats exposed to 5 ppm [23 mg/m3] or more for 6 h per day on five days per week for three months. Haematological changes (reduced haemoglobin, erythrocyte count and haematocrit) and blood chemistry changes (reduced plasma protein and increased γ-glutamyltranspeptidase) were also observed.",
+a,"Klimischet al., 1997a",#p1181_bib7
+a,b,#p1181_bib8
+h3,4.3. Reproductive and developmental effects,
+p,No data were available to the Working Group on either substance.,
+h3,4.4. Genetic and related effects,
+p,No data were available to the Working Group on either substance.,
+h2,5. Summary of Data Reported and Evaluation,
+h3,5.1. Exposure data,
+p,Little information was available to the Working Group regarding potential exposures toN-vinyl-2-pyrrolidone.,
+h3,5.2. Human carcinogenicity data,
+p,No data were available to the Working Group.,
+h3,5.3. Animal carcinogenicity data,
+p,"N-Vinyl-2-pyrrolidone was tested for carcinogenicity in one experiment in rats by inhalation exposure. It produced adenomas and adenocarcinomas of the nasal cavity, squamous carcinomas of the larynx and hepatocellular carcinomas in both sexes. Another 12-month inhalation experiment in rats of the same strain indicated occurrence of adenomas of the nasal cavity and foci of cellular alteration of the liver.",
+p,"Polyvinyl pyrrolidone was tested for carcinogenicity in mice, rats and rabbits by several routes of administration, producing local tumours.",
+h3,5.4. Other relevant data,
+p,"N-Vinyl-2-pyrrolidone metabolites and polyvinyl pyrrolidone are excreted mainly in urine. Inhalation of low concentrations ofN-vinyl-2-pyrrolidone by rats can cause nasal cavity inflammation, atrophy of olfactory epithelium and hyperplasia of the basal cells of the respiratory and olfactory epithelium. In humans and experimental animals, polyvinyl pyrrolidone accumulates in vacuoles of cells of many organs and, in humans, may be accompanied by pulmonary fibrosis and pneumonia. There have been no genetic toxicity studies with either compound.",
+h3,5.5. Evaluation,
+p,No epidemiological data relevant to the carcinogenicity ofN-vinyl-2-pyrrolidone or polyvinyl pyrrolidone were available.,
+p,There islimited evidencefor the carcinogenicity ofN-vinyl-2-pyrrolidone in experimental animals.,
+p,There islimited evidencefor the carcinogenicity of polyvinyl pyrrolidone in experimental animals.,
+h3,Overall evaluation,
+p,N-Vinyl-2-pyrrolidone isnot classifiable as to its carcinogenicity to humans (Group 3).,
+p,Polyvinyl pyrrolidone isnot classifiable as to its carcinogenicity to humans (Group 3).,
+h2,6. References,
+a,PubMed: 285915,https://pubmed.ncbi.nlm.nih.gov/285915
+a,PubMed: 3482203,https://pubmed.ncbi.nlm.nih.gov/3482203
+a,PubMed: 9463539,https://pubmed.ncbi.nlm.nih.gov/9463539
+a,PubMed: 9463540,https://pubmed.ncbi.nlm.nih.gov/9463540
+a,PubMed: 6434280,https://pubmed.ncbi.nlm.nih.gov/6434280
+a,Contents,/books/n/iarcmono71/
+a,< Prev,/books/n/iarcmono71/a055/
+a,Next >,/books/n/iarcmono71/a057/
+a,Share,#
+h3,Views,
+a,,#
+a,PubReader,/books/NBK498761/?report=reader
+a,Print View,/books/NBK498761/?report=printable
+a,Cite this Page,#_ncbi_dlg_citbx_NBK498761
+a,PDF version of this title,/books/n/iarcmono71/pdf/
+h3,In this Page,
+a,,#
+a,Exposure Data,#p1181_s1
+a,Studies of Cancer in Humans,#p1181_s2
+a,Studies of Cancer in Experimental Animals,#p1181_s3
+a,Other Data Relevant to an Evaluation of Carcinogenicity and its Mechanisms,#p1181_s4
+a,Summary of Data Reported and Evaluation,#p1181_s5
+a,6. References,#a056.ref-list53
+h3,Other titles in this collection,
+a,,#
+a,IARC Monographs on the Evaluation of Carcinogenic Risks to Humans,/books/n/iarcmonocollect/
+h3,Related information,
+a,,#
+a,PubMed,/books/?Db=pubmed&DbFrom=books&Cmd=Link&LinkName=books_pubmed_refs&IdsFromResult=5095026
+h3,Similar articles in PubMed,
+a,,#
+a,ReviewN-vinyl-2-pyrrolidone and polyvinyl pyrrolidone.,/pubmed/374234
+a,ReviewVinyl bromide.,/pubmed/10476478
+a,ReviewIsopropanol.,/pubmed/10476373
+a,Cell growth on tissue-engineering scaffolds prepared by gamma irradiation grafting of N-vinyl-2-pyrrolidone onto polyvinyl alcohol.,/pubmed/16892727
+a,ReviewAcetaldehyde.,/pubmed/10476449
+a,See reviews...,/sites/entrez?db=pubmed&cmd=link&linkname=pubmed_pubmed_reviews&uid=10476385
+a,See all...,/sites/entrez?db=pubmed&cmd=link&linkname=pubmed_pubmed&uid=10476385
+h3,Recent Activity,
+a,,#
+a,Clear,javascript:historyDisplayState('ClearHT')
+a,Turn Off,javascript:historyDisplayState('HTOff')
+a,Turn On,javascript:historyDisplayState('HTOn')
+a,N-Vinyl-2-pyrrolidone and polyvinyl pyrrolidone - Re-evaluation of Some Organic ...,/portal/utils/pageresolver.fcgi?recordid=66156cbd08bebf504c52e243
+p,Your browsing activity is empty.,
+p,Activity recording is turned off.,
+p,Turn recording back on,
+a,Turn recording back on,javascript:historyDisplayState('HTOn')
+a,See more...,/sites/myncbi/recentactivity
+a,Twitter,https://twitter.com/ncbi
+a,Facebook,https://www.facebook.com/ncbi.nlm
+a,LinkedIn,https://www.linkedin.com/company/ncbinlm
+a,GitHub,https://github.com/ncbi
+a,NCBI Insights Blog,https://ncbiinsights.ncbi.nlm.nih.gov/
+p,Connect with NLM,
+a,Connect with NLM,https://www.nlm.nih.gov/socialmedia/index.html
+a,Twitter,https://twitter.com/NLM_NIH
+a,Facebook,https://www.facebook.com/nationallibraryofmedicine
+a,Youtube,https://www.youtube.com/user/NLMNIH
+p,"National Library of Medicine8600 Rockville PikeBethesda, MD 20894",
+a,"8600 Rockville PikeBethesda, MD 20894","https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/@38.9959508,-77.101021,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb:0x19156f88b27635b8!8m2!3d38.9959508!4d-77.0988323"
+p,Web PoliciesFOIAHHS Vulnerability Disclosure,
+a,Web Policies,https://www.nlm.nih.gov/web_policies.html
+a,FOIA,https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office
+a,HHS Vulnerability Disclosure,https://www.hhs.gov/vulnerability-disclosure-policy/index.html
+p,HelpAccessibilityCareers,
+a,Help,https://support.nlm.nih.gov/
+a,Accessibility,https://www.nlm.nih.gov/accessibility.html
+a,Careers,https://www.nlm.nih.gov/careers/careers.html
+a,NLM,//www.nlm.nih.gov/
+a,NIH,https://www.nih.gov/
+a,HHS,https://www.hhs.gov/
+a,USA.gov,https://www.usa.gov/
+img,,"/stat?jsdisabled=true&ncbi_db=books&ncbi_pdid=book-part&ncbi_acc=NBK498761&ncbi_domain=iarcmono71&ncbi_report=record&ncbi_type=fulltext&ncbi_objectid=&ncbi_pcid=/NBK498761/&ncbi_pagename=N-Vinyl-2-pyrrolidone and polyvinyl pyrrolidone - Re-evaluation of Some Organic Chemicals, Hydrazine and Hydrogen Peroxide - NCBI Bookshelf&ncbi_bookparttype=chapter&ncbi_app=bookshelf"
